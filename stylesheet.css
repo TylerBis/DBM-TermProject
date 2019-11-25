@@ -1,0 +1,14 @@
+input {
+  height: 30px;
+  width: 20%; 
+  margin: 2px; 
+  padding: 2px;
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+  align: center;
+}
